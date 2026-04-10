@@ -5,11 +5,6 @@ This single project implements both requirements together:
 - Experiment 3.2.1: Dockerize React application with multi-stage build
 - Experiment 3.2.2: CI/CD pipeline with GitHub Actions
 
-Reference guides followed:
-
-- https://github.com/amansekhon888/dockerize-react
-- https://github.com/amansekhon888/CI-CD-Pipeline
-
 ## Final Outcomes
 
 - Production-ready multi-stage Docker image (Node build stage + Nginx runtime stage)
